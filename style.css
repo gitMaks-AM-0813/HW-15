@@ -14,7 +14,8 @@
     background-color: aquamarine;
     flex-basis: calc((100% - 0px) / 3);
     display: flex;
-    
+    justify-content: center;
+    padding-top: 15px;
 }
 .item:nth-child(1){
     background-color: blue;
